@@ -32,7 +32,7 @@
 /*    */   public void initGui()
 /*    */   {
 /* 34 */     int var3 = this.height / 4 + 24;
-/* 35 */     this.buttonList.add(new GuiButton(89, 171, 116, 135, 20, I18n.format(EnumChatFormatting.AQUA + "Acceder a Paladium.", new Object[] { Charsets.UTF_8, new Object[0] })));
+/* 35 */     this.buttonList.add(new GuiButton(89, 171, 116, 135, 20, I18n.format(EnumChatFormatting.AQUA + "Acceder à Paladium.", new Object[] { Charsets.UTF_8, new Object[0] })));
 /* 36 */     this.buttonList.add(new GuiButton(78, 171, 141, 135, 20, I18n.format(EnumChatFormatting.AQUA + "Menu principal.", new Object[] { Charsets.UTF_8, new Object[0] })));
 /*    */   }
 /*    */   
